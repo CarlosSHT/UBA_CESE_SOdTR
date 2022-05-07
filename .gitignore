@@ -1,0 +1,14 @@
+.settings/
+Debug/
+!Debug/
+**/Debug/*
+!**/Debug/*.elf
+!**/Debug/*.map
+!**/Debug/*.list
+Release/
+!Release/
+**/Release/*
+!**/Release/*.elf
+!**/Release/*.map
+!**/Release/*.list
+objects.list
